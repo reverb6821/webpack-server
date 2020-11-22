@@ -11,12 +11,8 @@ I've used:
 
 ## How to use:
 1- Clone this repo: `$ git clone https://github.com/ReverbOD/webpack-dev-server.git`
-<p align="center"><img width="600" height="200" src="./cloning.gif"></p>
 2- Install all the dependencies: `$ npm i`
-<p align="center"><img width="600" height="200" src="./install.gif"></p
 3- Build your own app!
   
 ## Command:
-* `$ npm start` for building in dev mode
-* `$ npm build` for building in production mode
-* `$ npm dev-server` launch the dev server
+* `$ npm run start` for building in dev mode
