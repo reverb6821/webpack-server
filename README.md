@@ -10,9 +10,9 @@ I've used:
 * [Sass](https://sass-lang.com/) - the most mature, stable, and powerful professional grade CSS extension language in the world (CSS with superpower :wink:).
 
 ## How to use:
-1- Clone this repo: `$ git clone https://github.com/ReverbOD/webpack-dev-server.git`
-2- Install all the dependencies: `$ npm i`
-3- Build your own app!
+* 1- Clone this repo: `$ git clone https://github.com/ReverbOD/webpack-dev-server.git`
+* 2- Install all the dependencies: `$ npm i`
+* 3- Build your own app!
   
 ## Command:
 * `$ npm run start` for building in dev mode
