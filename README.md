@@ -11,7 +11,7 @@ I've used:
 
 ## How to use:
 * 1- Clone this repo: `$ git clone https://github.com/ReverbOD/webpack-dev-server.git`
-* 2- Install all the dependencies: `$ npm i`
+* 2- Install all the dependencies: `$ yarn install`
 * 3- Build your own app!
   
 ## Command:
