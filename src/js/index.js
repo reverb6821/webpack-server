@@ -1,3 +1,3 @@
-import '../scss/styles.scss';
+const programName = 'Hello, World!';
 
-console.log('webpack');
+console.log(programName);
