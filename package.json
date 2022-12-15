@@ -4,9 +4,9 @@
   "description": "This is my boilerplate that I use in my regular workflow for a webpack dev server for a automatic and real-time compiling",
   "main": "app.js",
   "scripts": {
-    "install": "npm install",
-    "start": "webpack-dev-server --config config/webpack.dev.js",
-    "build": "webpack --config config/webpack.prod.js",
+    "page:install": "npm install",
+    "page:start": "webpack-dev-server --config config/webpack.dev.js",
+    "page:build": "webpack --config config/webpack.prod.js",
     "prettier": "prettier --write .",
     "stylelint": "stylelint 'src/**/*.{css,sass,scss}'",
     "eslint": "eslint src",
